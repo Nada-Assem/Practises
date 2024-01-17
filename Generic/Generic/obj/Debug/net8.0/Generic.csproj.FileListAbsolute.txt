@@ -1,0 +1,14 @@
+D:\.net practise\operator overloading\Generic\Generic\bin\Debug\net8.0\Generic.exe
+D:\.net practise\operator overloading\Generic\Generic\bin\Debug\net8.0\Generic.deps.json
+D:\.net practise\operator overloading\Generic\Generic\bin\Debug\net8.0\Generic.runtimeconfig.json
+D:\.net practise\operator overloading\Generic\Generic\bin\Debug\net8.0\Generic.dll
+D:\.net practise\operator overloading\Generic\Generic\bin\Debug\net8.0\Generic.pdb
+D:\.net practise\operator overloading\Generic\Generic\obj\Debug\net8.0\Generic.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net practise\operator overloading\Generic\Generic\obj\Debug\net8.0\Generic.AssemblyInfoInputs.cache
+D:\.net practise\operator overloading\Generic\Generic\obj\Debug\net8.0\Generic.AssemblyInfo.cs
+D:\.net practise\operator overloading\Generic\Generic\obj\Debug\net8.0\Generic.csproj.CoreCompileInputs.cache
+D:\.net practise\operator overloading\Generic\Generic\obj\Debug\net8.0\Generic.dll
+D:\.net practise\operator overloading\Generic\Generic\obj\Debug\net8.0\refint\Generic.dll
+D:\.net practise\operator overloading\Generic\Generic\obj\Debug\net8.0\Generic.pdb
+D:\.net practise\operator overloading\Generic\Generic\obj\Debug\net8.0\Generic.genruntimeconfig.cache
+D:\.net practise\operator overloading\Generic\Generic\obj\Debug\net8.0\ref\Generic.dll
