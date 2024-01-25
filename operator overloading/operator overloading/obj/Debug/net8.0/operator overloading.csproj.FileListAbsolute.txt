@@ -1,0 +1,14 @@
+D:\.net practise\operator overloading\operator overloading\operator overloading\bin\Debug\net8.0\operator overloading.exe
+D:\.net practise\operator overloading\operator overloading\operator overloading\bin\Debug\net8.0\operator overloading.deps.json
+D:\.net practise\operator overloading\operator overloading\operator overloading\bin\Debug\net8.0\operator overloading.runtimeconfig.json
+D:\.net practise\operator overloading\operator overloading\operator overloading\bin\Debug\net8.0\operator overloading.dll
+D:\.net practise\operator overloading\operator overloading\operator overloading\bin\Debug\net8.0\operator overloading.pdb
+D:\.net practise\operator overloading\operator overloading\operator overloading\obj\Debug\net8.0\operator overloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net practise\operator overloading\operator overloading\operator overloading\obj\Debug\net8.0\operator overloading.AssemblyInfoInputs.cache
+D:\.net practise\operator overloading\operator overloading\operator overloading\obj\Debug\net8.0\operator overloading.AssemblyInfo.cs
+D:\.net practise\operator overloading\operator overloading\operator overloading\obj\Debug\net8.0\operator overloading.csproj.CoreCompileInputs.cache
+D:\.net practise\operator overloading\operator overloading\operator overloading\obj\Debug\net8.0\operator overloading.dll
+D:\.net practise\operator overloading\operator overloading\operator overloading\obj\Debug\net8.0\refint\operator overloading.dll
+D:\.net practise\operator overloading\operator overloading\operator overloading\obj\Debug\net8.0\operator overloading.pdb
+D:\.net practise\operator overloading\operator overloading\operator overloading\obj\Debug\net8.0\operator overloading.genruntimeconfig.cache
+D:\.net practise\operator overloading\operator overloading\operator overloading\obj\Debug\net8.0\ref\operator overloading.dll
