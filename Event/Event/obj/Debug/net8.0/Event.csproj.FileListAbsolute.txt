@@ -1,0 +1,14 @@
+D:\.net practise\Event\Event\bin\Debug\net8.0\Event.exe
+D:\.net practise\Event\Event\bin\Debug\net8.0\Event.deps.json
+D:\.net practise\Event\Event\bin\Debug\net8.0\Event.runtimeconfig.json
+D:\.net practise\Event\Event\bin\Debug\net8.0\Event.dll
+D:\.net practise\Event\Event\bin\Debug\net8.0\Event.pdb
+D:\.net practise\Event\Event\obj\Debug\net8.0\Event.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net practise\Event\Event\obj\Debug\net8.0\Event.AssemblyInfoInputs.cache
+D:\.net practise\Event\Event\obj\Debug\net8.0\Event.AssemblyInfo.cs
+D:\.net practise\Event\Event\obj\Debug\net8.0\Event.csproj.CoreCompileInputs.cache
+D:\.net practise\Event\Event\obj\Debug\net8.0\Event.dll
+D:\.net practise\Event\Event\obj\Debug\net8.0\refint\Event.dll
+D:\.net practise\Event\Event\obj\Debug\net8.0\Event.pdb
+D:\.net practise\Event\Event\obj\Debug\net8.0\Event.genruntimeconfig.cache
+D:\.net practise\Event\Event\obj\Debug\net8.0\ref\Event.dll
