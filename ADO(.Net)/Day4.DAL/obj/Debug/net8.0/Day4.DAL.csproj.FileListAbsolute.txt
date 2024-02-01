@@ -1,0 +1,24 @@
+D:\.net practise\Ado\Day4.DAL\bin\Debug\net8.0\Day4.DAL.deps.json
+D:\.net practise\Ado\Day4.DAL\bin\Debug\net8.0\Day4.DAL.dll
+D:\.net practise\Ado\Day4.DAL\bin\Debug\net8.0\Day4.DAL.pdb
+D:\.net practise\Ado\Day4.DAL\obj\Debug\net8.0\Day4.DAL.csproj.AssemblyReference.cache
+D:\.net practise\Ado\Day4.DAL\obj\Debug\net8.0\Day4.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net practise\Ado\Day4.DAL\obj\Debug\net8.0\Day4.DAL.AssemblyInfoInputs.cache
+D:\.net practise\Ado\Day4.DAL\obj\Debug\net8.0\Day4.DAL.AssemblyInfo.cs
+D:\.net practise\Ado\Day4.DAL\obj\Debug\net8.0\Day4.DAL.csproj.CoreCompileInputs.cache
+D:\.net practise\Ado\Day4.DAL\obj\Debug\net8.0\Day4.DAL.dll
+D:\.net practise\Ado\Day4.DAL\obj\Debug\net8.0\refint\Day4.DAL.dll
+D:\.net practise\Ado\Day4.DAL\obj\Debug\net8.0\Day4.DAL.pdb
+D:\.net practise\Ado\Day4.DAL\obj\Debug\net8.0\ref\Day4.DAL.dll
+E:\ADO(.Net)\Day4.DAL\bin\Debug\net8.0\Day4.DAL.deps.json
+E:\ADO(.Net)\Day4.DAL\bin\Debug\net8.0\Day4.DAL.dll
+E:\ADO(.Net)\Day4.DAL\bin\Debug\net8.0\Day4.DAL.pdb
+E:\ADO(.Net)\Day4.DAL\obj\Debug\net8.0\Day4.DAL.csproj.AssemblyReference.cache
+E:\ADO(.Net)\Day4.DAL\obj\Debug\net8.0\Day4.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\ADO(.Net)\Day4.DAL\obj\Debug\net8.0\Day4.DAL.AssemblyInfoInputs.cache
+E:\ADO(.Net)\Day4.DAL\obj\Debug\net8.0\Day4.DAL.AssemblyInfo.cs
+E:\ADO(.Net)\Day4.DAL\obj\Debug\net8.0\Day4.DAL.csproj.CoreCompileInputs.cache
+E:\ADO(.Net)\Day4.DAL\obj\Debug\net8.0\Day4.DAL.dll
+E:\ADO(.Net)\Day4.DAL\obj\Debug\net8.0\refint\Day4.DAL.dll
+E:\ADO(.Net)\Day4.DAL\obj\Debug\net8.0\Day4.DAL.pdb
+E:\ADO(.Net)\Day4.DAL\obj\Debug\net8.0\ref\Day4.DAL.dll
