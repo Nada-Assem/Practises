@@ -1,0 +1,30 @@
+D:\.net practise\Ado\Day4.BLL\bin\Debug\net8.0\Day4.BLL.deps.json
+D:\.net practise\Ado\Day4.BLL\bin\Debug\net8.0\Day4.BLL.dll
+D:\.net practise\Ado\Day4.BLL\bin\Debug\net8.0\Day4.BLL.pdb
+D:\.net practise\Ado\Day4.BLL\bin\Debug\net8.0\Day4.DAL.dll
+D:\.net practise\Ado\Day4.BLL\bin\Debug\net8.0\Day4.DAL.pdb
+D:\.net practise\Ado\Day4.BLL\obj\Debug\net8.0\Day4.BLL.csproj.AssemblyReference.cache
+D:\.net practise\Ado\Day4.BLL\obj\Debug\net8.0\Day4.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net practise\Ado\Day4.BLL\obj\Debug\net8.0\Day4.BLL.AssemblyInfoInputs.cache
+D:\.net practise\Ado\Day4.BLL\obj\Debug\net8.0\Day4.BLL.AssemblyInfo.cs
+D:\.net practise\Ado\Day4.BLL\obj\Debug\net8.0\Day4.BLL.csproj.CoreCompileInputs.cache
+D:\.net practise\Ado\Day4.BLL\obj\Debug\net8.0\Day4.BLL.csproj.CopyComplete
+D:\.net practise\Ado\Day4.BLL\obj\Debug\net8.0\Day4.BLL.dll
+D:\.net practise\Ado\Day4.BLL\obj\Debug\net8.0\refint\Day4.BLL.dll
+D:\.net practise\Ado\Day4.BLL\obj\Debug\net8.0\Day4.BLL.pdb
+D:\.net practise\Ado\Day4.BLL\obj\Debug\net8.0\ref\Day4.BLL.dll
+E:\ADO(.Net)\Day4.BLL\bin\Debug\net8.0\Day4.BLL.deps.json
+E:\ADO(.Net)\Day4.BLL\bin\Debug\net8.0\Day4.BLL.dll
+E:\ADO(.Net)\Day4.BLL\bin\Debug\net8.0\Day4.BLL.pdb
+E:\ADO(.Net)\Day4.BLL\bin\Debug\net8.0\Day4.DAL.dll
+E:\ADO(.Net)\Day4.BLL\bin\Debug\net8.0\Day4.DAL.pdb
+E:\ADO(.Net)\Day4.BLL\obj\Debug\net8.0\Day4.BLL.csproj.AssemblyReference.cache
+E:\ADO(.Net)\Day4.BLL\obj\Debug\net8.0\Day4.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\ADO(.Net)\Day4.BLL\obj\Debug\net8.0\Day4.BLL.AssemblyInfoInputs.cache
+E:\ADO(.Net)\Day4.BLL\obj\Debug\net8.0\Day4.BLL.AssemblyInfo.cs
+E:\ADO(.Net)\Day4.BLL\obj\Debug\net8.0\Day4.BLL.csproj.CoreCompileInputs.cache
+E:\ADO(.Net)\Day4.BLL\obj\Debug\net8.0\Day4.BLL.csproj.CopyComplete
+E:\ADO(.Net)\Day4.BLL\obj\Debug\net8.0\Day4.BLL.dll
+E:\ADO(.Net)\Day4.BLL\obj\Debug\net8.0\refint\Day4.BLL.dll
+E:\ADO(.Net)\Day4.BLL\obj\Debug\net8.0\Day4.BLL.pdb
+E:\ADO(.Net)\Day4.BLL\obj\Debug\net8.0\ref\Day4.BLL.dll
