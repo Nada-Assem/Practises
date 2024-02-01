@@ -1,0 +1,112 @@
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\Day4_AdoForm.exe
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\Day4_AdoForm.deps.json
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\Day4_AdoForm.runtimeconfig.json
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\Day4_AdoForm.dll
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\Day4_AdoForm.pdb
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\.net practise\Ado\Day4_AdoForm\obj\Debug\net8.0-windows\Day4_AdoForm.csproj.AssemblyReference.cache
+D:\.net practise\Ado\Day4_AdoForm\obj\Debug\net8.0-windows\Day4_AdoForm.csproj.GenerateResource.cache
+D:\.net practise\Ado\Day4_AdoForm\obj\Debug\net8.0-windows\Day4_AdoForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net practise\Ado\Day4_AdoForm\obj\Debug\net8.0-windows\Day4_AdoForm.AssemblyInfoInputs.cache
+D:\.net practise\Ado\Day4_AdoForm\obj\Debug\net8.0-windows\Day4_AdoForm.AssemblyInfo.cs
+D:\.net practise\Ado\Day4_AdoForm\obj\Debug\net8.0-windows\Day4_AdoForm.csproj.CoreCompileInputs.cache
+D:\.net practise\Ado\Day4_AdoForm\obj\Debug\net8.0-windows\Day4_AdoForm.csproj.CopyComplete
+D:\.net practise\Ado\Day4_AdoForm\obj\Debug\net8.0-windows\Day4_AdoForm.dll
+D:\.net practise\Ado\Day4_AdoForm\obj\Debug\net8.0-windows\refint\Day4_AdoForm.dll
+D:\.net practise\Ado\Day4_AdoForm\obj\Debug\net8.0-windows\Day4_AdoForm.pdb
+D:\.net practise\Ado\Day4_AdoForm\obj\Debug\net8.0-windows\Day4_AdoForm.genruntimeconfig.cache
+D:\.net practise\Ado\Day4_AdoForm\obj\Debug\net8.0-windows\ref\Day4_AdoForm.dll
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\Day4.BLL.dll
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\Day4.DAL.dll
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\Day4.BLL.pdb
+D:\.net practise\Ado\Day4_AdoForm\bin\Debug\net8.0-windows\Day4.DAL.pdb
+D:\.net practise\Ado\Day4_AdoForm\obj\Debug\net8.0-windows\Day4_AdoForm.Course.resources
+D:\.net practise\Ado\Day4_AdoForm\obj\Debug\net8.0-windows\Day4_AdoForm.FormTopic.resources
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\Day4_AdoForm.exe
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\Day4_AdoForm.deps.json
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\Day4_AdoForm.runtimeconfig.json
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\Day4_AdoForm.dll
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\Day4_AdoForm.pdb
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\Day4.BLL.dll
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\Day4.DAL.dll
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\Day4.BLL.pdb
+E:\ADO(.Net)\Day4_AdoForm\bin\Debug\net8.0-windows\Day4.DAL.pdb
+E:\ADO(.Net)\Day4_AdoForm\obj\Debug\net8.0-windows\Day4_AdoForm.csproj.AssemblyReference.cache
+E:\ADO(.Net)\Day4_AdoForm\obj\Debug\net8.0-windows\Day4_AdoForm.Course.resources
+E:\ADO(.Net)\Day4_AdoForm\obj\Debug\net8.0-windows\Day4_AdoForm.FormTopic.resources
+E:\ADO(.Net)\Day4_AdoForm\obj\Debug\net8.0-windows\Day4_AdoForm.csproj.GenerateResource.cache
+E:\ADO(.Net)\Day4_AdoForm\obj\Debug\net8.0-windows\Day4_AdoForm.GeneratedMSBuildEditorConfig.editorconfig
+E:\ADO(.Net)\Day4_AdoForm\obj\Debug\net8.0-windows\Day4_AdoForm.AssemblyInfoInputs.cache
+E:\ADO(.Net)\Day4_AdoForm\obj\Debug\net8.0-windows\Day4_AdoForm.AssemblyInfo.cs
+E:\ADO(.Net)\Day4_AdoForm\obj\Debug\net8.0-windows\Day4_AdoForm.csproj.CoreCompileInputs.cache
+E:\ADO(.Net)\Day4_AdoForm\obj\Debug\net8.0-windows\Day4_AdoForm.csproj.CopyComplete
+E:\ADO(.Net)\Day4_AdoForm\obj\Debug\net8.0-windows\Day4_AdoForm.dll
+E:\ADO(.Net)\Day4_AdoForm\obj\Debug\net8.0-windows\refint\Day4_AdoForm.dll
+E:\ADO(.Net)\Day4_AdoForm\obj\Debug\net8.0-windows\Day4_AdoForm.pdb
+E:\ADO(.Net)\Day4_AdoForm\obj\Debug\net8.0-windows\Day4_AdoForm.genruntimeconfig.cache
+E:\ADO(.Net)\Day4_AdoForm\obj\Debug\net8.0-windows\ref\Day4_AdoForm.dll
