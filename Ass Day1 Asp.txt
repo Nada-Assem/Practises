@@ -1,3 +1,0 @@
-1- Create Action Return Welcome Msg (as string , Read html File ) take Name as Parameter (url Home/StrWelcome, Home/FileWelcome) 
-2- Create Action Return EvenOrOdd Msg (as string ) take number as Parameter (url Number/StrEvenOrOdd, Number/FileEvenOrOdd) 
-3- Create Action Get employee Details from static list and return html string show employee details(name , salary , hiringDate, address , (img bouns from wwwroot folder)) (url Student/Details) 
